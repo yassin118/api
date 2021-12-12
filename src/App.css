@@ -1,0 +1,28 @@
+
+
+
+.card{
+  display: flex;
+  position: relative;
+  background-color: rgb(68, 168, 68);
+  top: 50px;
+  left: 300px;
+  margin-bottom: 20px;
+  box-shadow: 10px 10px 8px #000000;
+
+}
+.card-body h5{
+  color: black
+}
+.card-body{
+  color: white;
+}
+.card-body a{
+  width: 100%;
+}
+.card-body p span{
+  color: black
+}
+.card-body h6 span{
+  color: blue;
+}
